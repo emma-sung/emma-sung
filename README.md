@@ -10,14 +10,13 @@ I'm a data enthusiast on a mission to turn messy data into meaningful insights �
 
 ## 📂 Featured Projects
 
-🔍 [**Project 1 – Data Dashboard**](https://github.com/yourusername/project-dashboard)  
-A clean and interactive dashboard using Plotly + Dash to visualize sales data.
+🔍 [**Project 1 – Fraud Detection in Financial Transactions**](https://github.com/emma-sung/financial-fraud-detection-model)  
+- A machine learning project focused on detecting fraudulent financial transactions using data. The goal is to build accurate classification models that can identify suspicious activity based on transaction features.
 
-📈 [**Project 2 – Analytics Pipeline**](https://github.com/yourusername/analytics-pipeline)  
-A full data pipeline from extraction to visualization using Airflow and BigQuery.
+📈 [**Project 2 – AEMR Electrical Outage Case Study**](https://github.com/emma-sung/aemr-energy-outage-analysis#)  
 
-📊 [**Project 3 – EDA Toolkit**](https://github.com/yourusername/eda-toolkit)  
-Reusable functions and templates for quick exploratory data analysis with Python.
+📊 [**Project 3 – High Risk Factors for Lung Cancer**](https://github.com/emma-sung/lung-cancer-risk-analysis)  
+
 
 ## 🛠️ Tools & Tech
 `Python` `SQL` `Pandas` `Excel` `VSCode` 
@@ -30,5 +29,3 @@ Reusable functions and templates for quick exploratory data analysis with Python
 ---
 
 _Thanks for stopping by! Keep learning and keep building 🚀_
-
-
