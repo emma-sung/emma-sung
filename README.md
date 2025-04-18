@@ -14,8 +14,10 @@ I'm a data enthusiast on a mission to turn messy data into meaningful insights �
 - A machine learning project focused on detecting fraudulent financial transactions using data. The goal is to build accurate classification models that can identify suspicious activity based on transaction features.
 
 📈 [**Project 2 – AEMR Electrical Outage Case Study**](https://github.com/emma-sung/aemr-energy-outage-analysis#)  
+- Analyzed outage event data for the American Energy Market Regulator (AEMR) to uncover patterns in energy disruptions and identify potential reliability issues among providers.
 
 📊 [**Project 3 – High Risk Factors for Lung Cancer**](https://github.com/emma-sung/lung-cancer-risk-analysis)  
+- This project explores risk factors associated with lung cancer severity using demographic and behavioral data. The goal was to identify trends and high-risk profiles to support data-driven approaches in healthcare research and public health awareness.
 
 
 ## 🛠️ Tools & Tech
