@@ -1,6 +1,6 @@
 # Hi, I'm Emma 👋
 
-I'm a data analyst who builds beyond the job description. I design end-to-end projects — pulling raw data from APIs, engineering features, training models, and packaging results for decision-makers. I'm actively deepening my skills in data engineering and machine learning, and looking for a role where that kind of ownership is the expectation.
+I'm a data analyst who builds beyond the job description. I design end-to-end projects — pulling raw data from APIs, engineering features, training models, and packaging results for decision-makers. I'm actively deepening my skills in data analysis, and looking for a role where that kind of ownership is the expectation.
 
 ## 📂 Featured Projects
 
