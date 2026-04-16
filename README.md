@@ -12,8 +12,9 @@ A production-quality financial modeling pipeline built to forecast Micron's quar
 Machine learning pipeline for detecting fraudulent transactions. Builds and evaluates classification models to flag suspicious activity based on transaction features.  
 `Python` `Scikit-learn` `Pandas` `Jupyter`
 
-🔮 **Project 3 – Coming Soon**  
-Currently in the works — stay tuned.
+✈️ [**Uber Air U.S. Network Expansion Playbook**](https://github.com/emma-sung/uber-air-strategy)  
+Data-driven market entry framework for sequencing Uber Air's U.S. eVTOL launch across 35 candidate cities. Builds a 5-dimension weighted scoring model (demand, income, vertiport feasibility, congestion, competitive whitespace), logistic S-curve demand forecasting across bear/base/bull scenarios, and a network sequencing optimizer that accounts for regulatory spillover and demand halo effects.  
+`Python` `SQL` `DuckDB` `BTS` `ACS` `FAA` `Pandas` `Matplotlib` `Jupyter`
 
 ## 🛠️ Tools & Tech
 `Python` `SQL` `DuckDB` `Pandas` `Scikit-learn`  
